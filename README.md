@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a passionate developer who loves building useful pro
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech Computer Science** student (3rd year)
+- 🎓 **B.Tech Computer Science** student (4th year)
 - 👀 Interested in **Full-Stack Development**, **Data Structures & Algorithms**, **Cloud**, and **Entrepreneurship**
 - 💡 I enjoy creating real-world projects, experimenting with AI tools, and contributing to open-source
 - 🤝 Open to collaborating on **web development**, **React projects**, or **DSA-based applications**
